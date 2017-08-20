@@ -19,7 +19,7 @@ This project attempts to sanatize the data from GoogleTrends Documenting Hate pr
 
 	Use:
 
-	node index.js <CvsToParse>
+	node index.js 20170816_Documenting_Hate_No_Descript
 
 -Outputs the object grouped by cities.
 
